@@ -6,7 +6,7 @@ Note: the schematic and layout were lost for R2, but the gerbers are included in
 
 ## Pinout
 
- 	![pinout](docs/pinout.png)
+![pinout](docs/pinout.png)
 
   Pins:
   
