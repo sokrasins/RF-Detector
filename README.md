@@ -4,6 +4,11 @@ Current verion: R2
 
 Note: the schematic and layout were lost for R2, but the gerbers are included in the folder
 
+## Usage
+
+Connect power (pins 1 & 2), RF in and out, and scope/logic analyzer on pin 3 and/or 4.
+
+
 ## Pinout
 
 ![pinout](docs/pinout.png)
@@ -17,4 +22,4 @@ Note: the schematic and layout were lost for R2, but the gerbers are included in
   5. Gnd
   6. Gnd
 
-  RF In - 0-10 dBm is a suitable range for clean digital out
+  RF In - 5-10 dBm is a suitable range for digital out. RF in should be tolerant up to 30 dBm.
